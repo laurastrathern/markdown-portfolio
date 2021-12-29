@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+# My amazing list:
+1. Taylor Swift
+2. Octopusses
+3. Python
+4. Neuroscience
+5. RuPaul's Drag Race
